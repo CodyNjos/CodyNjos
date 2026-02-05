@@ -1,6 +1,12 @@
 <div align="center">
   <img src="4cd9ce636c6d5f23688f0fda99cd81cf.gif" alt="banner" />
 </div>
+<div align="center">
+  <img src="4cd9ce636c6d5f23688f0fda99cd81cf.gif" alt="banner" />
+</div>
+<div align="center">
+  <img src="4cd9ce636c6d5f23688f0fda99cd81cf.gif" alt="banner" />
+</div>
 <!--
 **CodyNjos/CodyNjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
