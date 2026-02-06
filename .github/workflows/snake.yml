@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+        TZ: America/Chicago
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,8 +21,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-        env:
-            TZ: America/Chicago
+      
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
