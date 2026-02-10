@@ -9,6 +9,5 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/CodyNjos/CodyNjos/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-    <img width="400" src="https://streak-stats.demolab.com?user=CodyNjos&theme=dark&ring=24FEFD&border=24FEFD&sideNums=24FEFD&currStreakNum=24FEFD&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodyNjos&theme=dark&hide_border=true&card_width=567" alt="GitHub Streak" /></p>
