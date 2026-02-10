@@ -10,5 +10,5 @@
 </picture>
 
 <p align="center">
-    <img width="400" src="https://streak-stats.demolab.com?user=CodyNjos&theme=holi-theme&ring=24FEFD&border=24FEFD&sideNums=24FEFD&currStreakNum=24FEFD&hide_border=true" alt="GitHub Streak" />
+    <img width="400" src="https://streak-stats.demolab.com?user=CodyNjos&theme=dark&ring=24FEFD&border=24FEFD&sideNums=24FEFD&currStreakNum=24FEFD&hide_border=true" alt="GitHub Streak" />
 </p>
