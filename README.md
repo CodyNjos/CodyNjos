@@ -12,5 +12,4 @@
 </p>
 <p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodyNjos&theme=dark&hide_border=true&card_width=567" alt="GitHub Streak" /></p>
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=CodyNjos&theme=onedark&no-frame=true&row=1)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=CodyNjos)
